@@ -1,21 +1,42 @@
-DSA in Java 🚀
+# 🚀 DSA in Java
 
-This repository will contain my Data Structures and Algorithms (DSA) journey using Java.
+Welcome to my DSA journey using Java.
 
-📌 Status
+This repository contains my Data Structures and Algorithms practice for internships and placements.
 
-Currently learning Java basics.
-DSA practice will start soon.
+---
 
-🎯 Goal
+## 🎯 Goal
 
-To master DSA and problem-solving for coding interviews.
+- Master DSA
+- Improve problem-solving skills
+- Solve LeetCode questions
+- Prepare for internships and placements
 
-🔜 Coming Soon
+---
 
-- Arrays
-- Searching & Sorting
-- Recursion
-- Linked List
-- Trees
-- Graphs
+## 📚 Roadmap
+
+- [ ] Time Complexity
+- [ ] Arrays
+- [ ] Searching
+- [ ] Sorting
+- [ ] Recursion
+- [ ] Strings
+- [ ] Linked List
+- [ ] Stack
+- [ ] Queue
+- [ ] HashMap
+- [ ] Trees
+
+---
+
+## 💻 Language
+
+- Java
+
+---
+
+## 📅 Status
+
+🟢 DSA Journey Started
