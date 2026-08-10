@@ -34,3 +34,7 @@ public class TwoSum_HashMap{
         System.out.print("Indices are: " +Arrays.toString(ans));
     }
 }
+
+// Approach: HashMap
+// Time Complexity: O(n) average
+// Space Complexity: O(n)

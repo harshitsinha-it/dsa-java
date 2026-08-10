@@ -32,3 +32,7 @@ public class TwoSum_BruteForce{
       System.out.print("Indices are: " +Arrays.toString(ans));
     }
 }
+
+// Approach: Brute Force
+// Time Complexity: O(n²)
+// Space Complexity: O(1)
