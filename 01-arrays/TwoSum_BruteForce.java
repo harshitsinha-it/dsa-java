@@ -7,7 +7,6 @@ Given an integer array nums and a target,
 return the indices of two numbers whose sum equals the target.
 
 Topic      : Arrays + HashMap
-Difficulty : Easy
 ========================================================
 */
 // ------------------------------
