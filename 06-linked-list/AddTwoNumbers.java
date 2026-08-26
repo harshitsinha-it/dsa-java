@@ -57,3 +57,9 @@ public class AddTwoNumbers {
         }
     }
 }
+
+/*
+Approach: Dummy Node + Single Pass Simulation
+Time Complexity: O(max(m,n))
+Space Complexity: O(max(m,n))
+*/
