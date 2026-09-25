@@ -8,6 +8,10 @@ Given an array nums of n integers, return an array of
 all the unique quadruplets [nums[a], nums[b], nums[c], nums[d]]
 such that a, b, c, and d are distinct, and
 nums[a] + nums[b] + nums[c] + nums[d] == target.
+Example 1: nums = [1,0,-1,0,-2,2], target = 0
+           Output: [[-2,-1,1,2],[-2,0,0,2],[-1,0,0,1]]
+Example 2: nums = [2,2,2,2,2], target = 8
+           Output: [[2,2,2,2]]
 
 Topic      : Array + Two Pointer
 Approach: Sort + Fix two elements + Two Pointer for the remaining pair
